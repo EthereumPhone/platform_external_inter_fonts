@@ -4,7 +4,7 @@ License: Apache 2.0
 License File: NOTICE
 
 Description:
-Roboto fonts, the default LGC fonts on Android.
+Inter fonts, the default LGC fonts on ethOS.
 
 Local Modifications:
 This directory tracks the upstream result of "make; make crunch; make android",

@@ -13,5 +13,4 @@
 # limitations under the License.
 
 PRODUCT_PACKAGES := \
-    RobotoStatic-Regular.ttf \
-    Roboto-Regular.ttf
+    Inter-Regular.ttf
